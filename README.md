@@ -1,7 +1,7 @@
 # Superstore Sales Dashboard
 
 ## Overview
-An interactive dashboard analyzing Superstore sales using Excel Pivot Tables, XLOOKUP, and INDEX-MATCH.
+An interactive dashboard analyzing Superstore sales from 2014 to 2017.
 
 ## Key Features
 - Total sales by region and category
