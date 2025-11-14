@@ -1,4 +1,4 @@
-# Superstore Sales Dashboard (Excel)
+# Superstore Sales Dashboard
 
 ## Overview
 An interactive dashboard analyzing Superstore sales using Excel Pivot Tables, XLOOKUP, and INDEX-MATCH.
